@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ba Ra",
+        "taj": "111111111",
+        "mail": "jani@jani.hu",
+        "pass": "$2y$10$rXMT6vzPcDs2aQ0k4kEFD.rmZnNokRe4TaVxnIbbHL\/n.jJB3gDaq"
+    },
+    {
+        "name": "The Admin",
+        "taj": "999999999",
+        "mail": "admin@nemkovid.hu",
+        "pass": "$2y$10$aVwI0H5.txrO2AP9bZWB7u0hISgxPMgmEIqg87fyw83aQvHUosQFC"
+    },
+    {
+        "name": "asd asd",
+        "taj": "123123123",
+        "mail": "dikk@more.com",
+        "pass": "$2y$10$.R7xm7t\/mdJntCgJAHcJG.N8GMn.JUfSPuE2n1Lj0HZYxK\/1fc28u"
+    },
+    {
+        "name": "asd asd",
+        "taj": "111111111",
+        "mail": "asd@gasd.com",
+        "pass": "$2y$10$hstvdGkdLWw0dWKHdvRUJOpW5KXt9zVtuEh7WpqAsbnlTyizB8Z.."
+    }
+]
